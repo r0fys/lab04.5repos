@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Work\\AP_var_21\\Lab_4\\PR_4.5\\PR_4.5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E1E3AB9-FE0C-41FE-BAAD-B74DACBB60C6}|PR_4.5\\PR_4.5.vcxproj|D:\\Work\\AP_var_21\\Lab_4\\PR_4.5\\PR_4.5\\PR_4.5\\PR_4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E1E3AB9-FE0C-41FE-BAAD-B74DACBB60C6}|PR_4.5\\PR_4.5.vcxproj|solutionrelative:PR_4.5\\PR_4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D5D535B9-1818-49CB-B88A-E76DA1C5CD43}|PR_4.5\\PR_4.5.vcxproj|D:\\Work\\AP_var_21\\Lab_4\\PR_4.5\\PR_4.5\\PR_4.5\\PR_4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5D535B9-1818-49CB-B88A-E76DA1C5CD43}|PR_4.5\\PR_4.5.vcxproj|solutionrelative:PR_4.5\\PR_4.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "PR_4.5\\PR_4.5.cpp",
               "ToolTip": "D:\\Work\\AP_var_21\\Lab_4\\PR_4.5\\PR_4.5\\PR_4.5\\PR_4.5.cpp*",
               "RelativeToolTip": "PR_4.5\\PR_4.5.cpp*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-25T07:14:44.887Z",
+              "WhenOpened": "2025-09-25T07:41:25.081Z",
               "EditorCaption": ""
             }
           ]
